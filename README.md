@@ -15,12 +15,12 @@ Este proyecto corresponde a la segunda Actividad de Social Oplesk, que correspon
     </tr>
     <tr>
       <td><a href="https://github.com/wilfredo482" target="blank">Wilfredo Pinto</a></td>
-        <td>Bravo</td>
+        <td><a href="https://github.com/wilfredo482/hg_2_Bravo">Bravo</a></td>
         <td>Venezuela</td>
     </tr>
     <tr>
       <td><a href="https://github.com/VKneider">Victor Kneider</a></td>
-        <td>Alfa</td>
+        <td><a href="https://github.com/VKneider/hg_2_alfa">Alfa</a></td>
         <td>Venezuela</td>
     </tr>
     <tr>
@@ -30,12 +30,12 @@ Este proyecto corresponde a la segunda Actividad de Social Oplesk, que correspon
     </tr>   
     <tr>
         <td>Federico</td>
-        <td>Charlie</td>
-        <td>Venezuela</td>
+        <td>Delta</td>
+        <td>Argentina</td>
     </tr>
     <tr>
         <td>Emir Colombo</td>
-        <td>Charlie</td>
+        <td>Fox</td>
         <td>Venezuela</td>
     </tr>
 </table>
