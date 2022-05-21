@@ -24,8 +24,8 @@ Este proyecto corresponde a la segunda Actividad de Social Oplesk, que correspon
         <td>Venezuela</td>
     </tr>
     <tr>
-        <td>Enif Velasquez</td>
-        <td>Charlie</td>
+        <td><a href="https://github.com/EnifVelasquez">Enif Velasquez</a></td>
+        <td><a href="https://github.com/EnifVelasquez/hg_2_charlie">Charlie</a></td>
         <td>Venezuela</td>
     </tr>   
     <tr>
@@ -34,9 +34,9 @@ Este proyecto corresponde a la segunda Actividad de Social Oplesk, que correspon
         <td>Argentina</td>
     </tr>
     <tr>
-        <td>Emir Colombo</td>
-        <td>Fox</td>
-        <td>Venezuela</td>
+        <td><a href="Https://GitHub.com/E-Columbus">Emir Colombo</a></td>
+        <td><a href="Https://GitHub.com/E-Columbus/hg_2_echo">Echo</a></td>
+        <td>Argentina</td>
     </tr>
 </table>
 
